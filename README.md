@@ -2,8 +2,8 @@
 
 ### Why It Matters
 Live Map offers a **crowd-sourced pulse of a place**, helping people connect, coordinate, and stay oriented during unusual or live local events.  
-It’s **not a social media platform** — there are no profiles or feeds — just a real-time still of what’s happening, tied directly to location when the photo was taken.
-In unprecedented situations or events requiring greater spatial awareness, geolocated images and captions can provide help.
+It has no profiles or feeds, just a real-time snapshot of activity tied to each photo’s location.  
+For unprecedented situations or events that require greater spatial awareness, geolocated images and captions.
 
 ### Known Issues
 The **Geolocation API** and **IP-based lookup** can be unreliable in certain environments.  
